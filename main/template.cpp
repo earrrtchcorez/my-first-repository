@@ -1,6 +1,7 @@
 // Here’s a complete, runnable C++ example demonstrating function templates and class templates with proper input validation and comments.
 
-Cpp#include <iostream>
+//Cpp// 
+#include <iostream>
 #include <stdexcept> // For exception handling
 using namespace std;     //
 
@@ -75,7 +76,7 @@ int main() {
 // Function Template //
 
 //getMax<T> works for any type that supports the > operator.
-Automatically deduces the type from the arguments. //
+// Automatically deduces the type from the arguments. //
 
 
 
@@ -96,4 +97,5 @@ swapValues() only works if both types are the same (checked at compile time with
 // ✅ This code is self-contained, type-safe, and demonstrates both function and class templates in C++.// 
 
 // If you want, I can also give you an advanced C++ template example using template specialization and concepts (C++20) for even more type safety.
-Do you want me to prepare that?  //
+// Powerded by Copilot. //
+
